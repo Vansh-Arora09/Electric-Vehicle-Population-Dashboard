@@ -2,7 +2,8 @@
 
 ⚡ Electric Vehicle Population Dashboard
 
-![Alt Text for the Image](blob:https://web.whatsapp.com/75308e76-a458-4867-a7e5-617fd7ddc6c8)
+![WhatsApp Image 2025-11-28 at 20 24 23](https://github.com/user-attachments/assets/738d6bf9-c1a7-495a-b332-6142c6a9cbf2)
+
 This repository contains an interactive Microsoft Excel dashboard designed to analyze and visualize the Electric Vehicle (EV) population distribution and adoption trends. This project was developed between January 2025 and April 2025 to provide a dynamic tool for understanding EV growth patterns.
 
 ✨ Key Features
